@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **File Integrity Monitor** for my final year capstone project.
 
-- 🌱 I’m also studying for certain security certifications like **Security+** and **eJPT**.
+- 🌱 Studying for security certifications - **Security+** and **eJPT**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
